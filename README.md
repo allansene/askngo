@@ -10,6 +10,6 @@ O projeto foi desenvolvido durante a Hackathon DCC 40 Anos, pelos alunos Allan S
 
 ## Arquitetura
 
-![Esquema arquitetural do Backend](/integracao-backend.jpg)
+![Esquema arquitetural do Backend](integracao-back.jpg)
 
-![Esquema arquitetural da integração API/Front-end](/integracao-frontend.jpg)
+![Esquema arquitetural da integração API/Front-end](integracao-front.jpg)
