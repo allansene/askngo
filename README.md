@@ -8,6 +8,10 @@ Nossa idéia é resolver o problema de atraso no tempo de respostas nos fóruns 
 
 O esboço inicial do projeto foi desenvolvido durante a Hackathon DCC 40 Anos, pelos alunos Allan Sene, Carlos Ferreira, Gabriel Capanema, Gabriel Cardoso e Wagner Teixeira. Para uma idéia geral de nossa proposta, veja [nossa apresentação](https://www.canva.com/design/DAB9VLDvzeg/Njm_8Nlok8jv1h1kw6rtrA/view?utm_content=DAB9VLDvzeg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) feita ao fim da competição.
 
+## Colaboração
+
+Todos são bem-vindos a colaborar com o projeto. Para isso, usaremos o [Fluxo de Trabalho do GitHub](https://guides.github.com/introduction/flow/). Esperamos que este projeto um dia vá para frente, levando eficiência e usabilidade nos fóruns de discussões de várias entidades de ensino de nosso país.
+
 ## Arquitetura
 
 ### Backend
