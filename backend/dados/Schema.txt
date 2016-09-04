@@ -1,0 +1,23 @@
+Posts
+
+- Id
+- PostTypeId (listed in the PostTypes table)
+	1. Question
+	2. Answer
+- AcceptedAnswerId (only present if PostTypeId is 1)
+- ParentID (only present if PostTypeId is 2)
+- CreationDate
+- Score
+- Body (as rendered HTML, not Markdown)
+- OwnerUserId (only present if user has not been deleted; always -1 for tag wiki entries, i.e. the community user owns them)
+- OwnerDisplayName (nullable)
+- Title (nullable)
+- ClosedDate (present only if the post is closed)
+
+Users
+
+- Id
+- DisplayName
+- WebsiteUrl
+- AboutMe
+- Views
